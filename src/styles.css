@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-image: linear-gradient(
+		rgba(248, 247, 216, 0.2), 
+		rgba(129, 126, 32, 0.2)
+	  ),url('https://www.exploregeorgia.org/sites/default/files/2018-11/sawnee-mountain.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}
